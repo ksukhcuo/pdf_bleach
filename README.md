@@ -2,7 +2,7 @@
 
 This program whitens backgound of the documents which is scanned, colored, and so on.
 
-![picture](https://github.com/ksukhcuo/pdf_bleach/edit/master/sample_picture.png )
+![picture](https://github.com/ksukhcuo/pdf_bleach/blob/master/sample_picture.png )
 
 ## Requirements
 This is written by python3
